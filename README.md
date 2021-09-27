@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ - 🌊 I'm a student
+ - 🏝 Fun Fact: Cucumber is a fruit and not a vegetable because it has vegetables inside.
+ 
+
 <!-- #### My Leetcode profile 🙂 -->
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Shreelakshmi_M_Joshi)
