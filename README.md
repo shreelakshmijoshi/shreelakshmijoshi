@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 
 <!-- #### My Leetcode profile 🙂 -->
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=Shreelakshmi_M_Joshi)
+<!-- ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Shreelakshmi_M_Joshi)
+ -->
