@@ -38,7 +38,9 @@ Here are some ideas to get you started:
 
 ### My Leetcode profile 🙂 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Shreelakshmi_M_Joshi)
+<!-- ![Leetcode Stats](https://leetcode.card.workers.dev/Shreelakshmi_M_Joshi?theme=dark&font=baloo&extension=null) -->
 
+<!-- [![Shreelakshmi's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Shreelakshmi_M_Joshi&theme=dark)](https://github.com/Shreelakshmi_M_Joshi/leetcode-stats) -->
 ---
 The below image is fascinating ! so I had to include it 🙂
 
