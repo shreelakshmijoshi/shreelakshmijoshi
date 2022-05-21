@@ -38,13 +38,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/shreelakshmi-joshi-a250a61a6/"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_linkedin.png"></a>&nbsp;&nbsp;
 </p>
 
-
-### My Leetcode profile 🙂 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=Shreelakshmi_M_Joshi)
-<!-- ![Leetcode Stats](https://leetcode.card.workers.dev/Shreelakshmi_M_Joshi?theme=dark&font=baloo&extension=null) -->
-
-<!-- [![Shreelakshmi's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Shreelakshmi_M_Joshi&theme=dark)](https://github.com/Shreelakshmi_M_Joshi/leetcode-stats) -->
 ---
+
 The below image is fascinating ! so I had to include it 🙂
 
 ![36231833334_b3581aa9af_o](https://user-images.githubusercontent.com/74366348/156703518-fdef9729-0ea4-4df7-965b-c0745903b324.png)
