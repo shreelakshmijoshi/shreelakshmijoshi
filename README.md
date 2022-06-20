@@ -46,6 +46,9 @@ The below image is fascinating ! so I had to include it 🙂
 ![36231833334_b3581aa9af_o](https://user-images.githubusercontent.com/74366348/156703518-fdef9729-0ea4-4df7-965b-c0745903b324.png)
 
 #### Credit [flickr](https://www.flickr.com/photos/95869671@N08/36231833334)
+---
+
+Find me in GitHub Yearbook 2022 : [Here](https://education.github.com/graduation/yearbook?sort=az&page=50&search=shreelakshmijoshi#shreelakshmijoshi)
 
 
 <!-- 
