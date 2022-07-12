@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </td>
 </table>
 <h3 align="left">Connect with me</h3>
-<img src = "https://user-images.githubusercontent.com/74366348/171693868-91c9cfcc-9484-420c-996e-79a5b5feea13.gif" width ="30px" height = "100px" style="right" img align = "right">
+<img src = "https://user-images.githubusercontent.com/74366348/171693868-91c9cfcc-9484-420c-996e-79a5b5feea13.gif" width ="150px" height = "100px" style="right" img align = "right">
 <p align='left'>
 <a href="mailto:shreelakshmi.joshi@outlook.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shreelakshmi-joshi-a250a61a6/"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_linkedin.png"></a>&nbsp;&nbsp;
