@@ -51,9 +51,9 @@ The below image is fascinating ! so I had to include it 🙂
 
 Find me in GitHub Yearbook 2022 : [Here](https://education.github.com/graduation/yearbook?sort=az&page=50&search=shreelakshmijoshi#shreelakshmijoshi)
 
-<img src="https://user-images.githubusercontent.com/74366348/180488790-3e35a083-814e-4413-8d37-404e26c7f760.png" width="200px" height = "200px"> 
 
 <!-- 
+<img src="https://user-images.githubusercontent.com/74366348/180488790-3e35a083-814e-4413-8d37-404e26c7f760.png" width="200px" height = "200px"> 
 
  - 🌊 I'm a student...
  - 🏝 Fun Fact: Cucumber is a fruit and not a vegetable because it has seeds inside....
