@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 </td>
 </table>
 <h3 align="left">Connect with me</h3>
+
 <img src = "https://user-images.githubusercontent.com/74366348/171693868-91c9cfcc-9484-420c-996e-79a5b5feea13.gif" width ="150px" height = "100px" style="right" img align = "right">
 <p align='left'>
 <a href="mailto:shreelakshmi.joshi@outlook.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
@@ -50,6 +51,7 @@ The below image is fascinating ! so I had to include it 🙂
 
 Find me in GitHub Yearbook 2022 : [Here](https://education.github.com/graduation/yearbook?sort=az&page=50&search=shreelakshmijoshi#shreelakshmijoshi)
 
+<img src="https://user-images.githubusercontent.com/74366348/180488790-3e35a083-814e-4413-8d37-404e26c7f760.png" width="200px" height = "200px"> 
 
 <!-- 
 
