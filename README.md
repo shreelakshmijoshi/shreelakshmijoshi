@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 
-The below image is fascinating ! so I had to include it 🙂
+The image given below is fascinating ! so I had to include it 🙂
 
 ![36231833334_b3581aa9af_o](https://user-images.githubusercontent.com/74366348/156703518-fdef9729-0ea4-4df7-965b-c0745903b324.png)
 
