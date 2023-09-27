@@ -1,4 +1,5 @@
-###  <img src="https://user-images.githubusercontent.com/74366348/171692513-d05f1059-b91c-4597-8dac-ec1729bebf6b.gif" width="100px" height = "100px"> Hi there !
+### 
+<img src="https://user-images.githubusercontent.com/74366348/171692513-d05f1059-b91c-4597-8dac-ec1729bebf6b.gif" width="100px" height = "100px"> Hey there !</img>
 
 <!--
 **shreelakshmijoshi/shreelakshmijoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
