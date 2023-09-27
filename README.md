@@ -23,7 +23,6 @@ Here are some ideas to get you started:
           <li>🔭 I’m currently working on Open-Source Contribution... </li>
 <!--           <li>🌱 I’m currently learning Virtual Reality... </li> -->
           <li>:octocat: Ask me about Cats or Kittens because I 💛 them...  </li>
-          <li> 🌆 <a href="https://skyline.github.com/shreelakshmijoshi/2021">GitHub Skyline</a> </li>
 
 <!--           <li>📈📉 I believe learning curve is never linear it's always in bits and pieces </li> -->
  </ul>  
