@@ -23,8 +23,8 @@ Here are some ideas to get you started:
           <li>🏝 Fun Fact: Cucumber is a fruit and not a vegetable because it has seeds inside....</li>
           <li>🔭 I’m currently working on Open-Source Contribution... </li>
 <!--           <li>🌱 I’m currently learning Virtual Reality... </li> -->
-          <li>:octocat: Ask me about Cats or Kittens because I 💛 them...  </li>
-
+<!--           <li>:octocat: Ask me about Cats or Kittens because I 💛 them...  </li>
+ -->
 <!--           <li>📈📉 I believe learning curve is never linear it's always in bits and pieces </li> -->
  </ul>  
 </td>
